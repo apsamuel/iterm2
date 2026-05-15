@@ -237,6 +237,13 @@
   "Bound Hosts" : [
 
   ],
+  "Tab Color (Dark)" : {
+    "Red Component" : 0.94117647058823528,
+    "Color Space" : "sRGB",
+    "Blue Component" : 0.92549019607843142,
+    "Alpha Component" : 1,
+    "Green Component" : 0.92941176470588238
+  },
   "Use Bright Bold" : true,
   "Horizontal Spacing" : 1,
   "Ansi 13 Color (Light)" : {
