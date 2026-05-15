@@ -1,5 +1,7 @@
-.PHONY: install
+.PHONY: install dump-prefs
 
 install:
-	git submodule update --init --recursive
 	ln -sfn $(CURDIR) $(HOME)/.iterm2
+
+dump-prefs:
+	./scripts/dump-preferences.sh
